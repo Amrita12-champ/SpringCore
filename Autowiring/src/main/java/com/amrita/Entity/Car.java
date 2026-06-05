@@ -1,6 +1,5 @@
 package com.amrita.Entity;
 
-// This import is required to use the @Autowired annotation
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class Car {
