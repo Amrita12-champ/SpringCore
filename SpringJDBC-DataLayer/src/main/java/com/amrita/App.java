@@ -25,6 +25,6 @@ public class App {
         });
 
         students.forEach(System.out::println);
-        context.close();
+        context.close();//close connection
     }
 }
